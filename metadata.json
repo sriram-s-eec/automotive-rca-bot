@@ -1,0 +1,7 @@
+{
+  "name": "Automotive RCA Chatbot",
+  "description": "A domain-specific Root Cause Analysis (RCA) chatbot for the automobile industry, helping diagnose issues with manufacturing and service equipment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
