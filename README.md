@@ -30,27 +30,4 @@ Covers machines used in the *automobile and two-wheeler industries*, including:
 - Air Compressors  
 - Battery Assembly Systems  
 
----
 
-## Dataset
-- *Entries:* 100 common industrial machine problems  
-- *Format:* JSON / CSV  
-- *Fields:*
-  ```json
-  {
-    "issue": "Electric motor overheating",
-    "rootCauses": [
-      "Poor ventilation",
-      "Overloading",
-      "Phase imbalance",
-      "Bearing failure"
-    ],
-    "actions": [
-      "Clean air vents and ensure airflow",
-      "Reduce mechanical load",
-      "Check voltage balance",
-      "Lubricate or replace bearings"
-    ],
-    "severity": "High",
-    "machineType": "Motor"
-  }
